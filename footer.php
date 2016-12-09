@@ -6,7 +6,7 @@
 <body>
 <div class="container-fluid">
 	
-	<div class="panel panel-success">
+	<div class="panel panel-success" style="margin-top: 8%">
 			<div class="panel-heading">Contate-nos</div>
 			<div class="panel-body container-fluid">
 				
